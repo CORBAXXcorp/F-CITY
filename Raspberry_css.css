@@ -1,0 +1,27 @@
+
+html,body{
+  height: 100%;
+}
+
+body{
+  margin:0;
+  display: flex;
+}
+.couleur{
+  background-color:red;
+  color: red;
+}
+
+#taille
+ {
+  height: 90%;
+  display: flex;
+
+}
+
+#taillebasse
+{
+  height: 10%;
+  display: flex;
+}
+
